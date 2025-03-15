@@ -101,9 +101,11 @@ pnpm run docs:dev
 
   vitepress v1.6.3
 
+```
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h to show help
+```
 
 
 
